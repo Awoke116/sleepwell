@@ -1,7 +1,26 @@
 footer {
-    clear: both;
+    clear: left;
+    text-align: center;
+    height: 192px;
+    margin: 0px;
+    border: 0px;
+}
+
+.footerHeading {
+    font-size: x-large;
+}
+
+.hey {
+    font-size: larger;
 }
 
 nav {
-    display: inline-block
+    display: inline-block;
+}
+
+button {
+    background-color: black;
+    color: white;
+    height: 48px;
+    border: 0px;
 }
