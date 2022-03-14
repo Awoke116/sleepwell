@@ -25,6 +25,10 @@ nav a {
   color: black;
 }
 
+a:hover {
+  color: grey;  
+}
+
 .brandName {
     font-family: garamond, baskerville, serif;
     font-size: x-large;
